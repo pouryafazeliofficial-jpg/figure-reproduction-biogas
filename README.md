@@ -14,3 +14,5 @@ This project aims to reproduce a scientific figure from a biogas production stud
 
 ## Author
 [Pourya_Fazeli]
+## Final Visualizations
+![Biogas Production Plot](figures/final_combined.png)
