@@ -13,6 +13,6 @@ This project aims to reproduce a scientific figure from a biogas production stud
 2. Run the script located in `scripts/plot_figure.R`.
 
 ## Author
-[Pourya_Fazeli]
+Pourya_Fazeli
 ## Final Visualizations
-![Biogas Production Plot](figures/final_combined.png)
+![Biogas Production Plot](final_combined.png)
